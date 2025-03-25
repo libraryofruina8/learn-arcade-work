@@ -38,7 +38,7 @@ dude.health = 100
 dude.decrease_health(50)
 
 class Star():
-
+    print("A star is born!")
 
 
 
